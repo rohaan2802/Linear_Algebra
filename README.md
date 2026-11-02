@@ -20,23 +20,14 @@ My complete Linear Algebra course collection – weekly lecture slides, topic ha
 ## Live Links
 
 | What | Link |
-|---|---|
-| Repository | [rohaan2802/Linear_Algebra](https://github.com/rohaan2802/Linear_Algebra) |
-| Website (GitHub Pages) | [rohaan2802.github.io/Linear_Algebra](https://rohaan2802.github.io/Linear_Algebra/) |
-| Releases page | [Releases](https://github.com/rohaan2802/Linear_Algebra/releases) |
-| Release v1.0 | [Complete Course Archive](https://github.com/rohaan2802/Linear_Algebra/releases/tag/v1.0) |
-| Download: Linear Algebra and Its Applications – Lay, Lay & McDonald (~118 MB) | [Linear-Algebra-and-Its-Applications-Lay-Lay-McDonald.pdf](https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/Linear-Algebra-and-Its-Applications-Lay-Lay-McDonald.pdf) |
-| Download: Class recording 14 Oct 2024 (~162 MB) | [LA-Class-Recording-2024-10-14.mp4](https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/LA-Class-Recording-2024-10-14.mp4) |
-| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Linear_Algebra/archive/refs/heads/main.zip) |
-| Course folder | [Lectures & HomeWorks](https://github.com/rohaan2802/Linear_Algebra/tree/main/Lectures%20%26%20HomeWorks) |
-| Course folder | [HomeWorks](https://github.com/rohaan2802/Linear_Algebra/tree/main/HomeWorks) |
-| Study notes | [Notes](https://github.com/rohaan2802/Linear_Algebra/tree/main/Notes) |
-| Study notes | [Linear Algebra.pdf](https://github.com/rohaan2802/Linear_Algebra/blob/main/Notes/Linear%20Algebra.pdf) |
-| Study notes | [Matrix Diagonalization Steps.pdf](https://github.com/rohaan2802/Linear_Algebra/blob/main/Notes/Matrix%20Diagonalization%20Steps.pdf) |
-| Study notes | [PCA vs SVD.pdf](https://github.com/rohaan2802/Linear_Algebra/blob/main/Notes/PCA%20vs%20SVD.pdf) |
-| Other useful path | [Practice Questions.pdf](https://github.com/rohaan2802/Linear_Algebra/blob/main/Practice%20Questions/Practice%20Questions.pdf) |
-| Other useful path | [Books](https://github.com/rohaan2802/Linear_Algebra/tree/main/Books) |
-| Other useful path | [LICENSE](https://github.com/rohaan2802/Linear_Algebra/blob/main/LICENSE) |
+|------|------|
+| Repository | [https://github.com/rohaan2802/Linear_Algebra](https://github.com/rohaan2802/Linear_Algebra) |
+| Website (GitHub Pages) | [https://rohaan2802.github.io/Linear_Algebra/](https://rohaan2802.github.io/Linear_Algebra/) |
+| Releases page | [https://github.com/rohaan2802/Linear_Algebra/releases](https://github.com/rohaan2802/Linear_Algebra/releases) |
+| Release v1.0 | [https://github.com/rohaan2802/Linear_Algebra/releases/tag/v1.0](https://github.com/rohaan2802/Linear_Algebra/releases/tag/v1.0) |
+| Download: Linear Algebra and Its Applications – Lay, Lay & McDonald (~118 MB) | [https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/Linear-Algebra-and-Its-Applications-Lay-Lay-McDonald.pdf](https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/Linear-Algebra-and-Its-Applications-Lay-Lay-McDonald.pdf) |
+| Download: Class recording 14 Oct 2024 (~162 MB) | [https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/LA-Class-Recording-2024-10-14.mp4](https://github.com/rohaan2802/Linear_Algebra/releases/download/v1.0/LA-Class-Recording-2024-10-14.mp4) |
+| Download whole repository (ZIP) | [https://github.com/rohaan2802/Linear_Algebra/archive/refs/heads/main.zip](https://github.com/rohaan2802/Linear_Algebra/archive/refs/heads/main.zip) |
 
 ---
 
